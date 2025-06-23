@@ -77,7 +77,7 @@ femenino,agropecuaria,criadero de animales,la floresta,2,12.0,2016-06-14,6890000
 masculino,comercio,almacen de ropa en,popular,1,1.0,2018-10-18,7800000.0,microempresarial
 masculino,comercio,tienda,la milagrosa,3,9.0,2018-02-20,5000000.0,microempresarial
 femenino,comercio,restaurante,enciso,3,8.0,2017-03-09,7000000.0,microempresarial
-femenino,servicio,organizacion y,pedregal,3,6.0,2017-10-12,7377000.0,microempresarial
+femenino,servicio,organización y,pedregal,3,6.0,2017-10-12,7377000.0,microempresarial
 femenino,industria,fabrica de,el salvador,2,9.0,2017-06-06,7377000.0,microempresarial
 femenino,industria,fabrica de,manrique central no. 1,2,4.0,2018-04-27,3000000.0,microempresarial
 masculino,servicio,restaurante,belen,3,16.0,2017-04-03,7350000.0,microempresarial
@@ -247,7 +247,7 @@ femenino,industria,fabrica de,campo valdes no. 1,3,4.0,2017-11-30,7000000.0,micr
 masculino,comercio,tienda de helados,campo valdes no. 1,2,4.0,2016-04-11,6890000.0,microempresarial
 masculino,comercio,tienda,belencito,2,13.0,2016-03-10,6890000.0,microempresarial
 femenino,servicio,peluqueria,campo valdes no. 1,3,4.0,2018-04-03,7800000.0,microempresarial
-masculino,servicio,organizacion y,florencia,3,5.0,2018-08-21,6000000.0,microempresarial
+masculino,servicio,organización y,florencia,3,5.0,2018-08-21,6000000.0,microempresarial
 femenino,industria,fabrica de,santa cruz,2,2.0,2018-07-09,4500000.0,microempresarial
 masculino,comercio,variedades,robledo,2,7.0,2017-01-17,7377000.0,microempresarial
 masculino,industria,fabrica de,pablo vi,2,2.0,2017-05-16,7000000.0,microempresarial
@@ -440,7 +440,7 @@ masculino,comercio,tienda,tejelo,3,5.0,2018-09-12,5000000.0,microempresarial
 femenino,comercio,papeleria,villa guadalupe,2,1.0,2016-11-30,6890000.0,microempresarial
 femenino,comercio,variedades,boston,3,10.0,2018-09-05,7800000.0,microempresarial
 femenino,industria,fabrica de,robledo,1,7.0,2019-01-22,7800000.0,microempresarial
-femenino,servicio,organizacion y,cabecera san cristobal,2,60.0,2016-05-11,5000000.0,microempresarial
+femenino,servicio,organización y,cabecera san cristobal,2,60.0,2016-05-11,5000000.0,microempresarial
 femenino,comercio,variedades,santo domingo savio ,1,1.0,2017-10-23,4000000.0,microempresarial
 masculino,comercio,tienda,belen,2,16.0,2017-10-12,7200000.0,microempresarial
 masculino,comercio,restaurante,enciso,1,8.0,2016-10-19,4000000.0,microempresarial
@@ -505,7 +505,7 @@ femenino,comercio,tienda,robledo,2,7.0,2018-05-11,5000000.0,microempresarial
 masculino,comercio,tienda,cabecera san cristobal,3,60.0,2019-06-27,8200000.0,microempresarial
 femenino,comercio,variedades,castilla,2,5.0,2018-05-15,2000000.0,microempresarial
 femenino,comercio,ferreteria,juan xxiii la quiebra,2,13.0,2019-06-25,8000000.0,microempresarial
-masculino,servicio,organizacion y,boyaca,3,5.0,2018-05-17,15000000.0,empresarial ed.
+masculino,servicio,organización y,boyaca,3,5.0,2018-05-17,15000000.0,empresarial ed.
 femenino,servicio,peluqueria,moravia,2,4.0,2018-02-15,7800000.0,microempresarial
 femenino,servicio,venta de lacteos,enciso,3,8.0,2016-11-24,5000000.0,microempresarial
 masculino,servicio,comidas rapidas,cabecera san cristobal,3,60.0,2018-02-08,7800000.0,microempresarial
@@ -683,7 +683,7 @@ masculino,industria,fabrica de,robledo,2,7.0,2016-02-16,6900000.0,microempresari
 masculino,servicio,distribuidora de,suburbano altavista,2,70.0,2018-03-21,7800000.0,microempresarial
 femenino,comercio,fabrica de alimentos,el poblado,2,14.0,2016-01-19,5000000.0,microempresarial
 masculino,comercio,carniceria,enciso,1,8.0,2018-08-23,7800000.0,microempresarial
-masculino,servicio,organizacion y,playon de los ,2,2.0,2017-11-02,7300000.0,microempresarial
+masculino,servicio,organización y,playon de los ,2,2.0,2017-11-02,7300000.0,microempresarial
 femenino,comercio,tienda,cabecera san cristobal,2,60.0,2018-02-16,4000000.0,microempresarial
 femenino,comercio,restaurante,enciso,2,8.0,2017-10-09,5000000.0,microempresarial
 masculino,servicio,cafe e internet,san javier no.1,2,13.0,2018-04-16,7000000.0,microempresarial
@@ -824,7 +824,7 @@ masculino,comercio,legumbreria,florencia,3,5.0,2016-07-12,6000000.0,microempresa
 masculino,servicio,peluqueria,buenos aires,3,9.0,2016-07-13,3500000.0,microempresarial
 femenino,industria,fabrica de,antonio nariño,2,13.0,2016-12-21,5000000.0,microempresarial
 femenino,comercio,variedades,enciso,3,8.0,2018-07-05,7000000.0,microempresarial
-masculino,servicio,organizacion y,cabecera san antonio ,2,80.0,2016-05-05,19000000.0,juridica y cap.semilla
+masculino,servicio,organización y,cabecera san antonio ,2,80.0,2016-05-05,19000000.0,juridica y cap.semilla
 femenino,servicio,comidas rapidas,cabecera san antonio ,3,80.0,2016-08-08,6000000.0,microempresarial
 masculino,comercio,variedades,san javier no.1,3,13.0,2017-09-11,7000000.0,microempresarial
 femenino,comercio,restaurante,robledo,3,7.0,2017-10-30,6000000.0,microempresarial
@@ -961,7 +961,7 @@ femenino,industria,fabrica de,la francia,2,2.0,2016-08-31,6000000.0,microempresa
 femenino,servicio,restaurante,enciso,2,8.0,2018-06-01,7000000.0,microempresarial
 femenino,servicio,publicidad y,enciso,2,8.0,2017-02-09,6000000.0,microempresarial
 femenino,comercio,variedades,santo domingo savio ,1,1.0,2016-10-05,6850000.0,microempresarial
-masculino,servicio,organizacion y,castilla,3,5.0,2018-01-24,7812000.0,microempresarial
+masculino,servicio,organización y,castilla,3,5.0,2018-01-24,7812000.0,microempresarial
 femenino,comercio,papeleria,popular,2,1.0,2018-07-26,7800000.0,microempresarial
 femenino,servicio,peluqueria,aranjuez,3,4.0,2018-11-07,7800000.0,microempresarial
 masculino,comercio,restaurante,gerona,3,9.0,2016-10-12,6890000.0,microempresarial
@@ -1165,9 +1165,9 @@ femenino,comercio,variedades,santa cruz,2,2.0,2016-03-07,5000000.0,microempresar
 masculino,comercio,almacen de ropa en,castilla,2,5.0,2018-06-05,7800000.0,microempresarial
 femenino,comercio,criadero de animales,pablo vi,2,2.0,2019-02-26,6000000.0,microempresarial
 masculino,comercio,variedades,santo domingo savio ,2,1.0,2017-08-31,6000000.0,microempresarial
-femenino,servicio,organizacion y,lopez de mesa,3,7.0,2017-04-24,7300000.0,microempresarial
+femenino,servicio,organización y,lopez de mesa,3,7.0,2017-04-24,7300000.0,microempresarial
 masculino,comercio,venta de lacteos,robledo,1,7.0,2016-06-03,6890000.0,microempresarial
-masculino,servicio,organizacion y,moravia,1,4.0,2016-12-07,6890000.0,microempresarial
+masculino,servicio,organización y,moravia,1,4.0,2016-12-07,6890000.0,microempresarial
 masculino,comercio,comidas rapidas,jesus nazareno,1,10.0,2017-07-25,3000000.0,microempresarial
 femenino,comercio,panaderia,villa hermosa,3,8.0,2018-01-30,2000000.0,microempresarial
 masculino,comercio,papeleria,boston,3,10.0,2017-12-19,7300000.0,microempresarial
@@ -1353,10 +1353,10 @@ femenino,servicio,peluqueria,doce de octubre no.1,2,6.0,2019-02-04,7000000.0,mic
 masculino,comercio,granero,granizal,2,1.0,2017-07-27,5000000.0,microempresarial
 femenino,servicio,peluqueria,santa cruz,2,2.0,2018-09-12,6000000.0,microempresarial
 femenino,comercio,variedades,buenos aires,3,9.0,2017-10-10,3000000.0,microempresarial
-masculino,industria,organizacion y,buenos aires,3,9.0,2016-11-29,5000000.0,microempresarial
+masculino,industria,organización y,buenos aires,3,9.0,2016-11-29,5000000.0,microempresarial
 masculino,servicio,panaderia,calasanz,3,12.0,2018-09-24,7800000.0,microempresarial
 masculino,agropecuaria,jardineria,belen,1,16.0,2017-02-20,14754000.0,microempresarial
-femenino,servicio,organizacion y,popular,2,1.0,2018-01-23,7300000.0,microempresarial
+femenino,servicio,organización y,popular,2,1.0,2018-01-23,7300000.0,microempresarial
 femenino,comercio,variedades,manrique central no. 2,2,3.0,2016-04-12,2000000.0,microempresarial
 femenino,comercio,variedades,villa hermosa,2,8.0,2017-10-30,7377000.0,microempresarial
 masculino,industria,fabrica de calzado,pedregal,3,6.0,2018-03-08,4000000.0,microempresarial
@@ -1555,7 +1555,7 @@ femenino,comercio,comidas rapidas,villa hermosa,3,8.0,2018-03-12,5000000.0,micro
 femenino,industria,cerrajeria,san javier no.1,2,13.0,2018-10-11,7800000.0,microempresarial
 femenino,comercio,variedades,santa cruz,2,2.0,2018-06-15,7800000.0,microempresarial
 masculino,comercio,variedades,aranjuez,3,2.0,2017-06-20,7377000.0,microempresarial
-femenino,servicio,organizacion y,manrique central no. 2,2,3.0,2016-06-07,6890000.0,microempresarial
+femenino,servicio,organización y,manrique central no. 2,2,3.0,2016-06-07,6890000.0,microempresarial
 femenino,industria,fabrica de,loreto,2,9.0,2018-11-28,5000000.0,microempresarial
 femenino,servicio,peluqueria,la candelaria,1,10.0,2016-11-02,4000000.0,microempresarial
 femenino,comercio,comidas rapidas,belen,3,16.0,2018-05-07,7800000.0,microempresarial
@@ -1572,7 +1572,7 @@ femenino,servicio,peluqueria,robledo,2,7.0,2017-04-20,6000000.0,microempresarial
 femenino,comercio,bares,santa cruz,2,2.0,2019-04-02,7000000.0,microempresarial
 masculino,comercio,panaderia,buenos aires,3,9.0,2018-11-16,7800000.0,microempresarial
 femenino,comercio,comidas rapidas,villatina,1,8.0,2018-07-30,7800000.0,microempresarial
-masculino,servicio,organizacion y,san jose de la cima no. ,2,3.0,2018-04-18,800000.0,microempresarial
+masculino,servicio,organización y,san jose de la cima no. ,2,3.0,2018-04-18,800000.0,microempresarial
 femenino,industria,fabrica de,villatina,2,8.0,2016-02-04,4000000.0,microempresarial
 masculino,industria,fabrica de productos,la milagrosa,3,9.0,2017-08-29,7377000.0,microempresarial
 femenino,servicio,cafe e internet,robledo,2,7.0,2018-02-14,7000000.0,microempresarial
@@ -1756,7 +1756,7 @@ femenino,agropecuaria,criadero de animales,cabecera san antonio ,2,80.0,2018-10-
 femenino,comercio,variedades,el salvador,3,9.0,2017-07-24,7370000.0,microempresarial
 masculino,comercio,tienda,cabecera san cristobal,2,60.0,2016-05-10,1600000.0,microempresarial
 femenino,comercio,panaderia,prado,3,10.0,2018-10-29,7800000.0,microempresarial
-masculino,servicio,organizacion y,la milagrosa,3,9.0,2018-05-09,4500000.0,microempresarial
+masculino,servicio,organización y,la milagrosa,3,9.0,2018-05-09,4500000.0,microempresarial
 masculino,servicio,fabrica de ceramica,villatina,2,8.0,2016-12-21,6890000.0,microempresarial
 masculino,comercio,tienda,toscana,2,5.0,2017-09-22,7000000.0,microempresarial
 femenino,comercio,distribuidora de,doce de octubre no.1,2,6.0,2018-04-19,6000000.0,microempresarial
@@ -1827,7 +1827,7 @@ masculino,comercio,barberia,cabecera san cristobal,2,60.0,2017-03-09,7200000.0,m
 femenino,servicio,variedades,la francia,2,2.0,2017-10-26,7300000.0,microempresarial
 masculino,industria,fabrica de,el diamante,2,7.0,2019-04-25,8000000.0,microempresarial
 femenino,comercio,venta de calzado,granizal,2,1.0,2017-10-26,1500000.0,microempresarial
-femenino,servicio,organizacion y,san javier no.1,1,13.0,2018-04-18,7000000.0,microempresarial
+femenino,servicio,organización y,san javier no.1,1,13.0,2018-04-18,7000000.0,microempresarial
 femenino,comercio,variedades,cabecera san cristobal,3,60.0,2018-04-16,2000000.0,microempresarial
 masculino,comercio,comidas rapidas,campo amor,3,15.0,2017-07-26,7370000.0,microempresarial
 masculino,industria,fabrica de calzado,belencito,2,13.0,2016-10-19,6890000.0,microempresarial
@@ -2551,7 +2551,7 @@ masculino,comercio,variedades,san javier no.1,2,13.0,2018-06-05,7800000.0,microe
 femenino,comercio,comidas rapidas,cabecera san cristobal,2,60.0,2017-09-26,4000000.0,microempresarial
 masculino,comercio,comidas rapidas,san pedro,2,4.0,2017-06-13,7300000.0,microempresarial
 femenino,comercio,comidas rapidas,robledo,1,7.0,2017-01-30,5000000.0,microempresarial
-femenino,servicio,organizacion y,manrique central no. 1,1,4.0,2017-11-15,7377000.0,microempresarial
+femenino,servicio,organización y,manrique central no. 1,1,4.0,2017-11-15,7377000.0,microempresarial
 masculino,comercio,variedades,robledo,2,7.0,2018-02-09,700000.0,microempresarial
 femenino,industria,fabrica de,belencito,2,13.0,2018-08-10,4000000.0,microempresarial
 femenino,industria,fabrica de calzado,enciso,3,8.0,2017-09-19,6000000.0,microempresarial
@@ -2922,7 +2922,7 @@ femenino,industria,fabrica de,altavista,2,70.0,2018-09-05,6000000.0,microempresa
 masculino,industria,fabrica de calzado,santa cruz,2,2.0,2018-08-02,6000000.0,microempresarial
 femenino,comercio,comidas rapidas,cabecera san antonio ,3,80.0,2017-03-09,7377170.0,microempresarial
 femenino,comercio,miscelanea,santo domingo savio ,2,1.0,2017-08-24,6000000.0,microempresarial
-femenino,comercio,panalera,buenos aires,2,9.0,2017-05-31,7370000.0,microempresarial
+femenino,comercio,pañalera,buenos aires,2,9.0,2017-05-31,7370000.0,microempresarial
 femenino,servicio,variedades,santa cruz,2,2.0,2017-11-27,4000000.0,microempresarial
 femenino,comercio,fabrica de,santa cruz,2,2.0,2017-06-23,7377000.0,microempresarial
 femenino,industria,fabrica de,santo domingo savio ,2,1.0,2017-09-18,7300000.0,microempresarial
@@ -2987,7 +2987,7 @@ masculino,industria,fabrica de calzado,el rincon,2,16.0,2016-06-15,2000000.0,mic
 masculino,servicio,gimnasio,belen,3,16.0,2018-06-14,7800000.0,microempresarial
 masculino,industria,recreativo educativo,enciso,2,8.0,2016-03-31,6800000.0,microempresarial
 femenino,comercio,comidas rapidas,manrique oriental,2,3.0,2018-08-08,5000000.0,microempresarial
-femenino,comercio,organizacion y,santo domingo savio ,1,1.0,2019-05-03,8000000.0,microempresarial
+femenino,comercio,organización y,santo domingo savio ,1,1.0,2019-05-03,8000000.0,microempresarial
 femenino,industria,fabrica de,manrique central no. 1,3,4.0,2018-08-17,3000000.0,microempresarial
 masculino,comercio,tienda,manrique oriental,2,3.0,2019-03-28,2000000.0,microempresarial
 masculino,servicio,restaurante,buenos aires,3,9.0,2017-11-14,30000000.0,empresarial ed.
@@ -3321,7 +3321,7 @@ femenino,comercio,distribuidora de,pedregal,2,6.0,2017-03-07,7377000.0,microempr
 femenino,industria,fabrica de calzado,granizal,2,1.0,2018-06-05,7800000.0,microempresarial
 femenino,servicio,venta de lacteos,popular,2,1.0,2017-10-03,3000000.0,microempresarial
 femenino,servicio,peluqueria,popular,2,1.0,2018-05-03,5600000.0,microempresarial
-femenino,servicio,organizacion y,belen,3,16.0,2016-07-06,6890000.0,microempresarial
+femenino,servicio,organización y,belen,3,16.0,2016-07-06,6890000.0,microempresarial
 femenino,servicio,fabrica de,enciso,2,8.0,2016-11-16,6000000.0,microempresarial
 masculino,comercio,tienda,pablo vi,2,2.0,2019-05-17,5000000.0,microempresarial
 femenino,comercio,tienda,alfonso lopez,3,5.0,2016-11-10,6890000.0,microempresarial
@@ -3333,7 +3333,7 @@ femenino,servicio,cafe e internet,robledo,2,7.0,2017-12-13,7300000.0,microempres
 femenino,comercio,peluqueria,playon de los ,2,2.0,2018-02-02,7800000.0,microempresarial
 masculino,comercio,comidas rapidas,manrique oriental,2,3.0,2018-12-04,7812000.0,microempresarial
 femenino,servicio,comidas rapidas,castilla,3,5.0,2018-03-20,7800000.0,microempresarial
-masculino,servicio,organizacion y,santa maria de los ,3,14.0,2017-06-09,20000000.0,empresarial ed.
+masculino,servicio,organización y,santa maria de los ,3,14.0,2017-06-09,20000000.0,empresarial ed.
 masculino,comercio,fabrica de,enciso,1,8.0,2018-01-10,7300000.0,microempresarial
 femenino,servicio,peluqueria,cataluna,3,9.0,2017-08-17,1500000.0,microempresarial
 femenino,industria,fabrica de,las palmas,2,10.0,2018-07-12,7800000.0,microempresarial
@@ -3806,7 +3806,7 @@ femenino,servicio,peluqueria,villatina,2,8.0,2018-03-12,4500000.0,microempresari
 femenino,comercio,comidas rapidas,miranda,2,4.0,2017-11-08,2500000.0,microempresarial
 masculino,comercio,miscelanea,villatina,2,8.0,2017-12-12,7000000.0,microempresarial
 femenino,industria,fabrica de,el salvador,2,9.0,2017-11-17,7000000.0,microempresarial
-femenino,comercio,organizacion y,enciso,2,8.0,2018-05-09,4000000.0,microempresarial
+femenino,comercio,organización y,enciso,2,8.0,2018-05-09,4000000.0,microempresarial
 femenino,comercio,variedades,manrique central no. 2,2,3.0,2018-10-25,7800000.0,microempresarial
 femenino,comercio,fabrica de alimentos,centro admtivo,2,10.0,2018-08-29,7800000.0,microempresarial
 femenino,comercio,comidas rapidas,villa hermosa,3,8.0,2018-06-27,5300000.0,microempresarial
@@ -3867,7 +3867,7 @@ masculino,servicio,montallantas,manrique oriental,3,3.0,2019-03-22,7000000.0,mic
 femenino,servicio,peluqueria,manrique central no. 2,1,3.0,2019-05-10,4000000.0,microempresarial
 masculino,comercio,tienda,playon de los ,2,2.0,2016-09-28,6890000.0,microempresarial
 femenino,comercio,almacen de ropa en,manrique central no. 1,3,4.0,2017-12-22,7300000.0,microempresarial
-femenino,comercio,panalera,popular,2,1.0,2017-09-25,2500000.0,microempresarial
+femenino,comercio,pañalera,popular,2,1.0,2017-09-25,2500000.0,microempresarial
 masculino,comercio,variedades,manrique central no. 2,1,3.0,2016-06-07,6890000.0,microempresarial
 femenino,comercio,tienda,santo domingo savio ,1,1.0,2018-06-05,4000000.0,microempresarial
 masculino,comercio,tienda,belen,2,16.0,2019-02-27,8281000.0,microempresarial
@@ -4077,7 +4077,7 @@ femenino,comercio,tienda,popular,1,9.0,2017-08-25,3150000.0,microempresarial
 femenino,industria,fabrica de,belen,2,16.0,2018-08-08,7800000.0,microempresarial
 femenino,comercio,variedades,manrique central no. 1,2,4.0,2017-11-07,7377000.0,microempresarial
 femenino,industria,fabrica de,robledo,1,7.0,2018-04-27,7000000.0,microempresarial
-masculino,servicio,organizacion y,belen,3,16.0,2016-07-14,68900000.0,microempresarial
+masculino,servicio,organización y,belen,3,16.0,2016-07-14,68900000.0,microempresarial
 femenino,industria,carpinteria,aranjuez,2,4.0,2018-05-15,7800000.0,microempresarial
 femenino,industria,fabrica de,sucre,3,8.0,2018-07-12,5000000.0,microempresarial
 femenino,comercio,tienda naturista,campo valdes no. 1,3,4.0,2018-05-28,7800000.0,microempresarial
@@ -4308,7 +4308,7 @@ masculino,comercio,comidas rapidas,manrique central no. 1,2,4.0,2017-10-11,44000
 femenino,comercio,charcuteria,robledo,2,7.0,2016-11-02,6000000.0,microempresarial
 femenino,industria,fabrica de,robledo,2,7.0,2016-02-25,6500000.0,microempresarial
 femenino,industria,fabrica de,las violetas,2,16.0,2017-11-07,3000000.0,microempresarial
-masculino,servicio,organizacion y,pedregal,2,6.0,2017-03-24,1500000.0,microempresarial
+masculino,servicio,organización y,pedregal,2,6.0,2017-03-24,1500000.0,microempresarial
 femenino,servicio,cafeteria,aranjuez,1,4.0,2018-03-08,1200000.0,microempresarial
 femenino,comercio,variedades,castilla,2,5.0,2018-02-14,4000000.0,microempresarial
 masculino,comercio,variedades,belen,3,16.0,2017-02-03,7000000.0,microempresarial
@@ -4444,7 +4444,7 @@ masculino,comercio,variedades,robledo,2,7.0,2018-10-26,7800000.0,microempresaria
 masculino,comercio,variedades,doce de octubre no.1,2,6.0,2017-08-11,4000000.0,microempresarial
 femenino,comercio,variedades,castilla,3,5.0,2018-06-06,7000000.0,microempresarial
 masculino,comercio,comidas rapidas,aranjuez,1,4.0,2018-10-24,1500000.0,microempresarial
-femenino,comercio,organizacion y,santander,2,6.0,2016-09-01,3000000.0,microempresarial
+femenino,comercio,organización y,santander,2,6.0,2016-09-01,3000000.0,microempresarial
 masculino,servicio,ebanistaria,manrique central no. 2,3,3.0,2019-04-04,7000000.0,microempresarial
 femenino,comercio,variedades,manrique central no. 2,1,3.0,2018-04-11,4000000.0,microempresarial
 femenino,industria,fabrica de,san javier no.1,2,13.0,2017-12-06,4000000.0,microempresarial
@@ -4590,7 +4590,7 @@ femenino,industria,fabrica de,santander,2,6.0,2017-03-14,7300000.0,microempresar
 femenino,servicio,peluqueria,villa niza,2,2.0,2018-11-20,4000000.0,microempresarial
 femenino,comercio,distribuidora de,robledo,2,7.0,2017-10-12,7300000.0,microempresarial
 femenino,comercio,variedades,popular,2,1.0,2018-07-10,4000000.0,microempresarial
-masculino,servicio,organizacion y,santo domingo savio ,1,1.0,2018-02-16,7000000.0,microempresarial
+masculino,servicio,organización y,santo domingo savio ,1,1.0,2018-02-16,7000000.0,microempresarial
 femenino,servicio,peluqueria,pedregal,3,6.0,2016-07-19,3000000.0,microempresarial
 masculino,comercio,variedades,la salle,2,3.0,2018-10-24,7000000.0,microempresarial
 femenino,comercio,productos de belleza,alfonso lopez,2,5.0,2017-07-19,7370000.0,microempresarial
@@ -5608,7 +5608,7 @@ femenino,servicio,cafe e internet,santo domingo savio ,2,1.0,2017-11-14,3000000.
 femenino,comercio,variedades,tejelo,3,5.0,2017-12-13,7300000.0,microempresarial
 femenino,comercio,comidas rapidas,robledo,2,7.0,2018-04-16,7800000.0,microempresarial
 masculino,comercio,legumbreria,moravia,1,4.0,2017-04-26,7300000.0,microempresarial
-femenino,servicio,organizacion y,robledo,2,7.0,2018-05-11,7800000.0,microempresarial
+femenino,servicio,organización y,robledo,2,7.0,2018-05-11,7800000.0,microempresarial
 masculino,comercio,almacen de ropa en,hector abad gomez,2,5.0,2018-11-07,4000000.0,microempresarial
 masculino,comercio,variedades,manrique central no. 1,2,4.0,2017-02-23,2000000.0,microempresarial
 femenino,comercio,tienda,boyaca,1,5.0,2016-09-19,4000000.0,microempresarial
@@ -5701,7 +5701,7 @@ masculino,servicio,comidas rapidas,moravia,1,4.0,2016-08-22,6000000.0,microempre
 masculino,comercio,almacen de ropa en,robledo,2,7.0,2017-03-22,4000000.0,microempresarial
 femenino,servicio,barberia,cabecera san antonio ,3,80.0,2016-11-04,6890000.0,microempresarial
 femenino,comercio,tienda,popular,2,1.0,2016-06-13,6890000.0,microempresarial
-masculino,servicio,organizacion y,belen,3,16.0,2017-06-01,7370000.0,microempresarial
+masculino,servicio,organización y,belen,3,16.0,2017-06-01,7370000.0,microempresarial
 femenino,servicio,peluqueria,belen,2,16.0,2018-08-13,7800000.0,microempresarial
 femenino,comercio,variedades,campo valdes no. 1,3,4.0,2018-11-14,7800000.0,microempresarial
 femenino,servicio,peluqueria,florencia,3,5.0,2017-10-19,5000000.0,microempresarial
@@ -5914,7 +5914,7 @@ masculino,agropecuaria,criadero de animales,cabecera san cristobal,2,60.0,2016-1
 masculino,comercio,fabrica de arepas,manrique central no. 1,2,4.0,2018-07-25,2000000.0,microempresarial
 femenino,comercio,cafeteria,el chagualo,3,10.0,2017-07-26,7000000.0,microempresarial
 masculino,comercio,almacen de ropa en,cabecera san antonio ,2,80.0,2017-11-20,4000000.0,microempresarial
-femenino,servicio,organizacion y,manrique central no. 1,2,4.0,2018-10-30,13000000.0,empresarial ed.
+femenino,servicio,organización y,manrique central no. 1,2,4.0,2018-10-30,13000000.0,empresarial ed.
 masculino,servicio,peluqueria,buenos aires,2,9.0,2017-08-10,6000000.0,microempresarial
 masculino,comercio,variedades,manrique central no. 1,3,4.0,2017-06-12,7370000.0,microempresarial
 masculino,comercio,tienda,castilla,3,5.0,2019-01-29,7000000.0,microempresarial
@@ -6149,7 +6149,7 @@ femenino,industria,fabrica de,doce de octubre no.1,2,6.0,2016-10-28,6000000.0,mi
 femenino,servicio,comidas rapidas,robledo,3,7.0,2017-05-12,4000000.0,microempresarial
 masculino,comercio,variedades,manrique oriental,1,3.0,2018-03-12,3000000.0,microempresarial
 femenino,comercio,fabrica de,la francia,2,2.0,2018-06-21,6000000.0,microempresarial
-masculino,servicio,organizacion y,manrique oriental,3,3.0,2016-12-16,20000000.0,juridica y cap.semilla
+masculino,servicio,organización y,manrique oriental,3,3.0,2016-12-16,20000000.0,juridica y cap.semilla
 masculino,comercio,variedades,miraflores,3,9.0,2018-04-04,7800000.0,microempresarial
 femenino,comercio,variedades,cabecera san cristobal,2,60.0,2017-08-02,7377000.0,microempresarial
 femenino,comercio,restaurante,cristo rey,3,15.0,2018-01-24,6000000.0,microempresarial
@@ -6319,7 +6319,7 @@ femenino,agropecuaria,criadero de animales,la volcana y guayabal,2,50.0,2017-04-
 masculino,comercio,tienda,cabecera san cristobal,2,5.0,2019-02-06,4000000.0,microempresarial
 masculino,comercio,fabrica de arepas,buenos aires,3,9.0,2016-11-28,6800000.0,microempresarial
 femenino,comercio,drogueria,moravia,2,4.0,2018-06-20,5000000.0,microempresarial
-masculino,servicio,organizacion y,manrique central no. 2,1,3.0,2016-04-26,6443500.0,microempresarial
+masculino,servicio,organización y,manrique central no. 2,1,3.0,2016-04-26,6443500.0,microempresarial
 masculino,industria,fabrica de,cabecera san cristobal,1,60.0,2019-01-18,7800000.0,microempresarial
 masculino,comercio,comidas rapidas,francisco antonio zea,3,5.0,2019-02-22,8000000.0,microempresarial
 masculino,industria,fabrica de,san pedro,2,4.0,2018-04-16,5000000.0,microempresarial
@@ -6335,7 +6335,7 @@ femenino,servicio,cafe e internet,robledo,2,7.0,2016-10-13,6890000.0,microempres
 masculino,industria,fabrica de,santa lucia,3,12.0,2018-04-26,4500000.0,microempresarial
 femenino,industria,fabrica de,cabecera san cristobal,2,60.0,2018-05-07,2500000.0,microempresarial
 masculino,comercio,comidas rapidas,santo domingo savio ,1,1.0,2018-04-26,3000000.0,microempresarial
-masculino,servicio,organizacion y,robledo,2,7.0,2016-09-08,1500000.0,microempresarial
+masculino,servicio,organización y,robledo,2,7.0,2016-09-08,1500000.0,microempresarial
 femenino,comercio,variedades,campo valdes no. 2,2,3.0,2016-03-31,5000000.0,microempresarial
 femenino,industria,fabrica de,san javier no.1,1,13.0,2018-02-07,2000000.0,microempresarial
 femenino,comercio,comidas rapidas,manrique central no. 1,3,4.0,2016-10-05,6894000.0,microempresarial
@@ -6978,7 +6978,7 @@ masculino,industria,fabrica de,san javier no.1,1,13.0,2018-02-21,2000000.0,micro
 masculino,comercio,variedades,llanaditas,1,8.0,2018-03-12,7800000.0,microempresarial
 femenino,comercio,papeleria,robledo,2,7.0,2018-06-27,6000000.0,microempresarial
 masculino,industria,taller de mecanica,santo domingo savio ,2,1.0,2017-07-13,1200000.0,microempresarial
-masculino,servicio,organizacion y,manrique central no. 1,2,4.0,2017-05-31,2000000.0,microempresarial
+masculino,servicio,organización y,manrique central no. 1,2,4.0,2017-05-31,2000000.0,microempresarial
 femenino,comercio,tienda,santo domingo savio ,1,1.0,2017-10-04,7377000.0,microempresarial
 femenino,comercio,tienda,cabecera san antonio ,3,80.0,2017-11-21,7300000.0,microempresarial
 masculino,comercio,marqueteria,campo valdes no. 1,3,4.0,2017-02-28,7300000.0,microempresarial
@@ -7278,7 +7278,7 @@ masculino,comercio,comidas rapidas,aranjuez,3,4.0,2018-04-25,3000000.0,microempr
 masculino,servicio,deposito de,el compromiso,1,1.0,2018-05-11,3000000.0,microempresarial
 femenino,industria,fabrica de,manrique central no. 1,2,4.0,2018-06-08,7000000.0,microempresarial
 femenino,servicio,comidas rapidas,san javier no.1,1,13.0,2016-04-01,4000000.0,microempresarial
-masculino,comercio,organizacion y,centro admtivo,3,10.0,2017-08-24,18000000.0,juridica y cap.semilla
+masculino,comercio,organización y,centro admtivo,3,10.0,2017-08-24,18000000.0,juridica y cap.semilla
 femenino,servicio,restaurante,cabecera san cristobal,1,60.0,2018-04-25,7800000.0,microempresarial
 femenino,comercio,cafeteria,aranjuez,2,4.0,2016-12-13,6890000.0,microempresarial
 femenino,industria,variedades,belencito,2,13.0,2016-10-12,5000000.0,microempresarial
@@ -8016,7 +8016,7 @@ masculino,servicio,productos de belleza,guayabal,3,15.0,2016-10-28,4615000.0,mic
 masculino,industria,fabrica de,popular,1,1.0,2018-05-15,7812000.0,microempresarial
 masculino,industria,fabrica de,manrique central no. 2,2,3.0,2018-06-21,6000000.0,microempresarial
 femenino,comercio,variedades,buenos aires,3,9.0,2019-01-18,8200000.0,microempresarial
-masculino,servicio,organizacion y,barrio caicedo,1,9.0,2018-10-11,7000000.0,microempresarial
+masculino,servicio,organización y,barrio caicedo,1,9.0,2018-10-11,7000000.0,microempresarial
 femenino,industria,fabrica de,buenos aires,3,9.0,2018-06-21,4000000.0,microempresarial
 femenino,comercio,comidas rapidas,buenos aires,3,9.0,2017-01-06,6000000.0,microempresarial
 masculino,comercio,tienda,buenos aires,2,9.0,2019-06-28,1500000.0,microempresarial
@@ -8065,7 +8065,7 @@ femenino,comercio,productos de belleza,pedregal alto,3,60.0,2017-10-24,6500000.0
 femenino,industria,fabrica de,buenos aires,3,9.0,2017-02-16,6000000.0,microempresarial
 femenino,comercio,legumbreria,lopez de mesa,3,7.0,2018-02-01,3000000.0,microempresarial
 femenino,comercio,tienda,santo domingo savio ,2,1.0,2018-05-28,2800000.0,microempresarial
-masculino,comercio,organizacion y,manrique central no. 1,2,4.0,2016-10-05,3000000.0,microempresarial
+masculino,comercio,organización y,manrique central no. 1,2,4.0,2016-10-05,3000000.0,microempresarial
 masculino,comercio,criadero de animales,palmitas,2,50.0,2018-04-23,4000000.0,microempresarial
 masculino,servicio,barberia,belen,2,16.0,2016-12-21,6800000.0,microempresarial
 femenino,servicio,comidas rapidas,villa hermosa,3,8.0,2016-03-09,6500000.0,microempresarial
@@ -8994,7 +8994,7 @@ femenino,comercio,almacen de ropa en,san javier no.1,2,13.0,2019-04-05,6000000.0
 femenino,industria,fabrica de,carpinelo,1,1.0,2018-07-24,5000000.0,microempresarial
 masculino,servicio,mantenimiento en,castilla,2,5.0,2018-03-13,5000000.0,microempresarial
 femenino,comercio,comidas rapidas,aranjuez,2,4.0,2018-04-09,4500000.0,microempresarial
-femenino,comercio,organizacion y,santo domingo savio ,2,1.0,2018-05-02,7800000.0,microempresarial
+femenino,comercio,organización y,santo domingo savio ,2,1.0,2018-05-02,7800000.0,microempresarial
 femenino,comercio,variedades,villa hermosa,3,8.0,2018-06-27,7800000.0,microempresarial
 femenino,comercio,tienda,santo domingo savio ,1,1.0,2018-09-14,7800000.0,microempresarial
 femenino,industria,fabrica de,maria cano ,1,3.0,2018-03-01,3000000.0,microempresarial
@@ -9178,7 +9178,7 @@ masculino,servicio,publicidad y,san javier no.1,3,13.0,2017-08-03,7370000.0,micr
 femenino,comercio,tienda,cabecera san cristobal,2,60.0,2017-05-05,5000000.0,microempresarial
 masculino,agropecuaria,viveros,cabecera san cristobal,2,60.0,2017-05-02,3000000.0,microempresarial
 femenino,servicio,peluqueria,robledo,2,7.0,2017-12-12,7377000.0,microempresarial
-masculino,servicio,organizacion y,santander,2,6.0,2018-03-02,3500000.0,microempresarial
+masculino,servicio,organización y,santander,2,6.0,2018-03-02,3500000.0,microempresarial
 masculino,comercio,peluqueria,andalucia,2,2.0,2017-01-25,5000000.0,microempresarial
 femenino,industria,fabrica de,aranjuez,3,4.0,2017-12-13,4000000.0,microempresarial
 femenino,comercio,almacen de ropa en,santa lucia,3,12.0,2018-07-27,7800000.0,microempresarial
@@ -9256,7 +9256,7 @@ femenino,industria,comidas rapidas,villa hermosa,2,8.0,2017-12-14,7000000.0,micr
 femenino,comercio,comidas rapidas,nuevos conquistadores,1,13.0,2017-03-08,6000000.0,microempresarial
 masculino,comercio,variedades,manrique central no. 1,2,4.0,2018-07-05,3000000.0,microempresarial
 masculino,comercio,fabrica de colchones,manrique oriental,1,3.0,2018-10-31,6000000.0,microempresarial
-femenino,servicio,organizacion y,campo valdes no. 1,3,4.0,2018-12-04,7800000.0,microempresarial
+femenino,servicio,organización y,campo valdes no. 1,3,4.0,2018-12-04,7800000.0,microempresarial
 femenino,comercio,almacen de ropa en,belen,2,16.0,2017-12-22,4400000.0,microempresarial
 femenino,comercio,fabrica de colchones,aranjuez,3,4.0,2017-06-21,7377000.0,microempresarial
 masculino,industria,marqueteria,castilla,2,5.0,2019-01-24,8000000.0,microempresarial
@@ -9462,7 +9462,7 @@ masculino,servicio,barberia,barrio caicedo,1,9.0,2018-02-01,5000000.0,microempre
 femenino,comercio,almacen de ropa en,el socorro,2,13.0,2016-10-13,6000000.0,microempresarial
 femenino,industria,fabrica de,moravia,1,4.0,2018-06-12,6000000.0,microempresarial
 femenino,comercio,variedades,carpinelo,1,1.0,2018-04-11,4000000.0,microempresarial
-masculino,servicio,organizacion y,belen,2,16.0,2018-10-31,7500000.0,microempresarial
+masculino,servicio,organización y,belen,2,16.0,2018-10-31,7500000.0,microempresarial
 femenino,comercio,tienda,belen,2,16.0,2017-09-08,3000000.0,microempresarial
 femenino,industria,fabrica de,la candelaria,3,10.0,2016-10-03,4100000.0,microempresarial
 masculino,comercio,almacen de ropa en,belen,3,16.0,2018-04-19,7812000.0,microempresarial
@@ -9846,7 +9846,7 @@ masculino,comercio,variedades,moravia,2,90.0,2016-10-20,6890000.0,microempresari
 femenino,servicio,peluqueria,santa rosa de lima,3,13.0,2017-10-20,7370000.0,microempresarial
 femenino,comercio,variedades,cristo rey,3,15.0,2018-05-03,3000000.0,microempresarial
 femenino,comercio,variedades,la floresta,3,12.0,2018-10-29,7812000.0,microempresarial
-femenino,servicio,organizacion y,santo domingo savio ,1,1.0,2018-05-31,5000000.0,microempresarial
+femenino,servicio,organización y,santo domingo savio ,1,1.0,2018-05-31,5000000.0,microempresarial
 masculino,comercio,variedades,andalucia,2,2.0,2017-10-13,7300000.0,microempresarial
 masculino,industria,fabrica de colchones,popular,2,1.0,2017-11-23,3300000.0,microempresarial
 femenino,comercio,almacen de ropa en,villa hermosa,2,8.0,2019-06-11,8500000.0,microempresarial
@@ -10144,7 +10144,7 @@ masculino,comercio,mantenimiento en,picacho,1,6.0,2018-09-24,4000000.0,microempr
 masculino,comercio,comidas rapidas,manrique central no. 1,1,4.0,2018-11-28,7812000.0,microempresarial
 femenino,comercio,restaurante,belen,2,7.0,2016-10-06,3000000.0,microempresarial
 masculino,comercio,tienda,doce de octubre no.1,2,6.0,2019-04-10,8261160.0,microempresarial
-femenino,servicio,organizacion y,altavista,2,70.0,2016-04-26,4000000.0,microempresarial
+femenino,servicio,organización y,altavista,2,70.0,2016-04-26,4000000.0,microempresarial
 femenino,comercio,variedades,barrio caicedo,2,9.0,2016-04-01,5000000.0,microempresarial
 femenino,servicio,peluqueria,buenos aires,3,9.0,2019-05-08,8281000.0,microempresarial
 masculino,comercio,comidas rapidas,castilla,3,5.0,2018-03-01,6000000.0,microempresarial

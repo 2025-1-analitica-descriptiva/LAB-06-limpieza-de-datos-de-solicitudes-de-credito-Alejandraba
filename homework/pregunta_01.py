@@ -5,7 +5,6 @@ import pandas as pd
 import numpy as np
 import os
 import re  
-from unidecode import unidecode
 
 def pregunta_01():
     df = pd.read_csv("files/input/solicitudes_de_credito.csv", sep=";", encoding='utf-8')
@@ -42,7 +41,6 @@ def pregunta_01():
     # Arreglar columna idea_negocio
     df['idea_negocio'] = df['idea_negocio'].str.replace('_', ' ').str.replace('-', ' ')
     df['idea_negocio'] = df['idea_negocio'].str.strip()
-    df['idea_negocio'] = df['idea_negocio'].apply(lambda x: unidecode(x) if isinstance(x, str) else x) 
 
     # Arreglar columna barrio
     df['barrio'] = df['barrio'].str.replace('_', ' ').str.replace('-', ' ')
@@ -57,11 +55,6 @@ def pregunta_01():
     # Arreglar columna línea_credito
     df['línea_credito'] = df['línea_credito'].str.replace('_', ' ').str.replace('-', ' ')
     df['línea_credito'] = df['línea_credito'].str.strip()
-
-    # cambiar tipo de datos a category
-    df=df.astype({'sexo' : 'category', 'tipo_de_emprendimiento' : 'category', 'barrio' : 'category',
-                  'idea_negocio' : 'category', 'línea_credito' : 'category', 'estrato' : 'category',
-                  'comuna_ciudadano' : 'category'})
 
     
     # Eliminar filas con nulos en columnas
