@@ -1,4 +1,5 @@
 .DS_Store
+files/output/solicitudes_de_credito.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -67,7 +67,7 @@ def pregunta_01():
     if not os.path.exists("files/output"):
         os.makedirs("files/output")
     # Guardar el DataFrame limpio en un archivo CSV
-    df.to_csv("files/output/solicitudes_de_credito.csv", index=False)
+    df.to_csv("files/output/solicitudes_de_credito.csv",sep=";", index=False)
 
     return df
 
