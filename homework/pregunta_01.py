@@ -32,7 +32,7 @@ def pregunta_01():
     df['fecha_de_beneficio'] = pd.to_datetime(df['fecha_de_beneficio'], errors='coerce', dayfirst=True)
 
     # Reemplazar valores nulos solo en columnas que lo necesitan
-    columnas_con_na = ['sexo', 'tipo_de_emprendimiento', 'idea_negocio', 'línea_credito', 'estrato', 'barrio']
+    columnas_con_na = ['sexo', 'idea_negocio', 'línea_credito', 'estrato', 'barrio']
     df[columnas_con_na] = df[columnas_con_na].replace(["", " ", "NA", "N/A", "nan", "NaN"], np.nan)
 
     # poner en minúscula los valores de las columnas categóricas
@@ -40,34 +40,22 @@ def pregunta_01():
         df[col] = df[col].apply(lambda x: x.lower() if isinstance(x, str) else x)
     
     # Arreglar columna idea_negocio
-    df['idea_negocio'] = df['idea_negocio'].str.replace('_', ' ', regex=False).str.replace('-', ' ', regex=False)
+    df['idea_negocio'] = df['idea_negocio'].str.replace('_', ' ').str.replace('-', ' ')
     df['idea_negocio'] = df['idea_negocio'].str.strip()
     df['idea_negocio'] = df['idea_negocio'].apply(lambda x: unidecode(x) if isinstance(x, str) else x) 
 
     # Arreglar columna barrio
-    df['barrio'] = df['barrio'].str.replace('_', ' ', regex=False).str.replace('-', ' ', regex=False)
-    df['barrio'] = df['barrio'].str.strip()
-    df['barrio'] = df['barrio'].str.replace(r'\s+', ' ', regex=True) 
-    df['barrio'] = df['barrio'].replace({
-        'bel¿n': 'belen',
-        'antonio nari¿o':'antonio nariño',
-        'campo valdez no. 1': 'campo valdes no. 1',
-        'campo valdez no.1': 'campo valdes no. 1',
-        'campo valdes no.1': 'campo valdes no. 1',
-        'el-poblado': 'el poblado',
-        'poblado': 'el poblado',
-        'aures no.1': 'aures no. 1',
-        'bombona no.1': 'bombona no. 1',
-        'bombona no.2': 'bombona no. 2',
-    })
+    df['barrio'] = df['barrio'].str.replace('_', ' ').str.replace('-', ' ')
+
     
     # Arreglar columna monto
-    df['monto_del_credito'] = df['monto_del_credito'].str.replace(r'[\$,\.]', '', regex=True)
+    df['monto_del_credito'] = df['monto_del_credito'].str.replace('$', '').str.replace('_', ' ').str.replace('-', ' ')
     df['monto_del_credito'] = df['monto_del_credito'].str.replace(' ', '') 
+    df['monto_del_credito'] = df['monto_del_credito'].str.replace(',', '') 
     df['monto_del_credito'] = df['monto_del_credito'].astype(float)
 
     # Arreglar columna línea_credito
-    df['línea_credito'] = df['línea_credito'].str.replace('_', ' ', regex=False).str.replace('-', ' ', regex=False)
+    df['línea_credito'] = df['línea_credito'].str.replace('_', ' ').str.replace('-', ' ')
     df['línea_credito'] = df['línea_credito'].str.strip()
 
     # cambiar tipo de datos a category
@@ -75,15 +63,18 @@ def pregunta_01():
                   'idea_negocio' : 'category', 'línea_credito' : 'category', 'estrato' : 'category',
                   'comuna_ciudadano' : 'category'})
 
-    #poner como indice la columna sexo
-    df.set_index('sexo', inplace=True)
-    df.index.name = 'sexo'
     
     # Eliminar filas con nulos en columnas
     df = df.dropna()
 
     # Eliminar filas duplicadas
     df = df.drop_duplicates()
+
+    #creo la carpeta de salida si no existe
+    if not os.path.exists("files/output"):
+        os.makedirs("files/output")
+    # Guardar el DataFrame limpio en un archivo CSV
+    df.to_csv("files/output/solicitudes_de_credito.csv", index=False)
 
     return df
 
@@ -92,7 +83,8 @@ if __name__ == "__main__":
     print(df.head())
     print(df.columns)
     print(df.info())
-    print(df.index.value_counts())
+    print(df.sexo.value_counts())
+    print(df.sexo.value_counts().to_list())
     #print(f"Valores unicos: {df['barrio'].unique()}")
     #print(df.index.value_counts())
     #print(df.tipo_de_emprendimiento.value_counts())
